@@ -1,0 +1,591 @@
+[
+  {
+    "id": "ELEC-1001",
+    "sku": "ELEC-1001",
+    "name": "Samsung Galaxy M35 5G (8GB/128GB)",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 16999,
+    "currency": "INR",
+    "stock": 42,
+    "rating": 4.3,
+    "tags": [
+      "bestseller",
+      "5g",
+      "mobile"
+    ],
+    "seller": {
+      "name": "Samsung Authorised Seller",
+      "city": "Hyderabad"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "stock": 14
+      },
+      {
+        "color": "Blue",
+        "stock": 11
+      },
+      {
+        "color": "Silver",
+        "stock": 8
+      }
+    ],
+    "specs": {
+      "warrantyMonths": 12,
+      "returnableDays": 7
+    }
+  },
+  {
+    "id": "ELEC-1002",
+    "sku": "ELEC-1002",
+    "name": "Apple iPhone 15 (128GB)",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 69900,
+    "currency": "INR",
+    "stock": 8,
+    "rating": 4.6,
+    "tags": [
+      "premium",
+      "mobile"
+    ],
+    "seller": {
+      "name": "Apple Authorised Seller",
+      "city": "Bengaluru"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "stock": 0
+      },
+      {
+        "color": "Silver",
+        "stock": 0
+      }
+    ],
+    "specs": {
+      "warrantyMonths": 12,
+      "returnableDays": 7
+    }
+  },
+  {
+    "id": "ELEC-1003",
+    "sku": "ELEC-1003",
+    "name": "boAt Rockerz 450 Bluetooth Headphones",
+    "category": "Electronics",
+    "brand": "boAt",
+    "price": 1499,
+    "currency": "INR",
+    "stock": 230,
+    "rating": 4.1,
+    "tags": [
+      "bestseller",
+      "audio"
+    ],
+    "seller": {
+      "name": "boAt Authorised Seller",
+      "city": "Delhi"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "stock": 76
+      },
+      {
+        "color": "Blue",
+        "stock": 73
+      },
+      {
+        "color": "Silver",
+        "stock": 70
+      }
+    ],
+    "specs": {
+      "warrantyMonths": 12,
+      "returnableDays": 7
+    }
+  },
+  {
+    "id": "ELEC-1004",
+    "sku": "ELEC-1004",
+    "name": "Lenovo IdeaPad Slim 5 Laptop",
+    "category": "Electronics",
+    "brand": "Lenovo",
+    "price": 58990,
+    "currency": "INR",
+    "stock": 3,
+    "rating": 4.4,
+    "tags": [
+      "laptop",
+      "student"
+    ],
+    "seller": {
+      "name": "Lenovo Authorised Seller",
+      "city": "Bengaluru"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "stock": 1
+      },
+      {
+        "color": "Blue",
+        "stock": 0
+      },
+      {
+        "color": "Silver",
+        "stock": 0
+      }
+    ],
+    "specs": {
+      "warrantyMonths": 12,
+      "returnableDays": 7
+    }
+  },
+  {
+    "id": "ELEC-1005",
+    "sku": "ELEC-1005",
+    "name": "Mi 43-inch 4K Smart TV",
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "price": 26999,
+    "currency": "INR",
+    "stock": 15,
+    "rating": 4.2,
+    "tags": [
+      "tv",
+      "festive-deal"
+    ],
+    "seller": {
+      "name": "Xiaomi Authorised Seller",
+      "city": "Chennai"
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "stock": 2
+      },
+      {
+        "color": "Silver",
+        "stock": 0
+      }
+    ],
+    "discount": {
+      "percent": 20,
+      "validTill": "2026-11-30"
+    },
+    "specs": {
+      "warrantyMonths": 12,
+      "returnableDays": 7
+    }
+  },
+  {
+    "id": "FASH-2001",
+    "sku": "FASH-2001",
+    "name": "Men's Cotton Slim Fit Shirt",
+    "category": "Fashion",
+    "brand": "Peter England",
+    "price": 1299,
+    "currency": "INR",
+    "stock": 120,
+    "rating": 4.0,
+    "tags": [
+      "men",
+      "office-wear"
+    ],
+    "seller": {
+      "name": "Peter England Authorised Seller",
+      "city": "Tiruppur"
+    },
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 40
+      },
+      {
+        "color": "Navy",
+        "stock": 37
+      },
+      {
+        "color": "White",
+        "stock": 34
+      }
+    ]
+  },
+  {
+    "id": "FASH-2002",
+    "sku": "FASH-2002",
+    "name": "Women's Banarasi Silk Saree",
+    "category": "Fashion",
+    "brand": "Kanchi Weaves",
+    "price": 4599,
+    "currency": "INR",
+    "stock": 25,
+    "rating": 4.7,
+    "tags": [
+      "women",
+      "festive-deal",
+      "bestseller"
+    ],
+    "seller": {
+      "name": "Kanchi Weaves Authorised Seller",
+      "city": "Varanasi"
+    },
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 8
+      },
+      {
+        "color": "Navy",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "stock": 2
+      }
+    ],
+    "discount": {
+      "percent": 20,
+      "validTill": "2026-11-30"
+    }
+  },
+  {
+    "id": "FASH-2003",
+    "sku": "FASH-2003",
+    "name": "Running Shoes Ultraboost",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "price": 7999,
+    "currency": "INR",
+    "stock": 4,
+    "rating": 4.5,
+    "tags": [
+      "sports",
+      "footwear"
+    ],
+    "seller": {
+      "name": "Adidas Authorised Seller",
+      "city": "Mumbai"
+    },
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 1
+      },
+      {
+        "color": "Navy",
+        "stock": 0
+      },
+      {
+        "color": "White",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "id": "FASH-2004",
+    "sku": "FASH-2004",
+    "name": "Kids Denim Jacket",
+    "category": "Fashion",
+    "brand": "Max",
+    "price": 999,
+    "currency": "INR",
+    "stock": 60,
+    "rating": 3.9,
+    "tags": [
+      "kids"
+    ],
+    "seller": {
+      "name": "Max Authorised Seller",
+      "city": "Hyderabad"
+    },
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 20
+      },
+      {
+        "color": "Navy",
+        "stock": 17
+      },
+      {
+        "color": "White",
+        "stock": 14
+      }
+    ]
+  },
+  {
+    "id": "HOME-3001",
+    "sku": "HOME-3001",
+    "name": "Prestige Induction Cooktop 2000W",
+    "category": "Home & Kitchen",
+    "brand": "Prestige",
+    "price": 2799,
+    "currency": "INR",
+    "stock": 75,
+    "rating": 4.2,
+    "tags": [
+      "kitchen",
+      "bestseller"
+    ],
+    "seller": {
+      "name": "Prestige Authorised Seller",
+      "city": "Bengaluru"
+    },
+    "variants": [
+      {
+        "color": "Steel",
+        "stock": 37
+      },
+      {
+        "color": "Black",
+        "stock": 34
+      }
+    ]
+  },
+  {
+    "id": "HOME-3002",
+    "sku": "HOME-3002",
+    "name": "Milton Steel Water Bottle 1L",
+    "category": "Home & Kitchen",
+    "brand": "Milton",
+    "price": 549,
+    "currency": "INR",
+    "stock": 400,
+    "rating": 4.4,
+    "tags": [
+      "kitchen",
+      "eco"
+    ],
+    "seller": {
+      "name": "Milton Authorised Seller",
+      "city": "Mumbai"
+    },
+    "variants": [
+      {
+        "color": "Steel",
+        "stock": 200
+      },
+      {
+        "color": "Black",
+        "stock": 197
+      }
+    ]
+  },
+  {
+    "id": "HOME-3003",
+    "sku": "HOME-3003",
+    "name": "Wakefit Orthopaedic Mattress (Queen)",
+    "category": "Home & Kitchen",
+    "brand": "Wakefit",
+    "price": 12499,
+    "currency": "INR",
+    "stock": 2,
+    "rating": 4.3,
+    "tags": [
+      "bedroom",
+      "festive-deal"
+    ],
+    "seller": {
+      "name": "Wakefit Authorised Seller",
+      "city": "Bengaluru"
+    },
+    "variants": [
+      {
+        "color": "Steel",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "stock": 0
+      }
+    ],
+    "discount": {
+      "percent": 20,
+      "validTill": "2026-11-30"
+    }
+  },
+  {
+    "id": "HOME-3004",
+    "sku": "HOME-3004",
+    "name": "Philips Air Fryer HD9252",
+    "category": "Home & Kitchen",
+    "brand": "Philips",
+    "price": 7499,
+    "currency": "INR",
+    "stock": 18,
+    "rating": 4.5,
+    "tags": [
+      "kitchen",
+      "premium"
+    ],
+    "seller": {
+      "name": "Philips Authorised Seller",
+      "city": "Pune"
+    },
+    "variants": [
+      {
+        "color": "Steel",
+        "stock": 9
+      },
+      {
+        "color": "Black",
+        "stock": 6
+      }
+    ]
+  },
+  {
+    "id": "BOOK-4001",
+    "sku": "BOOK-4001",
+    "name": "Atomic Habits",
+    "category": "Books",
+    "brand": "Penguin",
+    "price": 499,
+    "currency": "INR",
+    "stock": 300,
+    "rating": 4.8,
+    "tags": [
+      "self-help",
+      "bestseller"
+    ],
+    "seller": {
+      "name": "Penguin Authorised Seller",
+      "city": "Delhi"
+    },
+    "specs": {
+      "format": "Paperback",
+      "language": "English"
+    }
+  },
+  {
+    "id": "BOOK-4002",
+    "sku": "BOOK-4002",
+    "name": "Wings of Fire - A. P. J. Abdul Kalam",
+    "category": "Books",
+    "brand": "Universities Press",
+    "price": 299,
+    "currency": "INR",
+    "stock": 150,
+    "rating": 4.9,
+    "tags": [
+      "biography",
+      "student"
+    ],
+    "seller": {
+      "name": "Universities Press Authorised Seller",
+      "city": "Hyderabad"
+    },
+    "specs": {
+      "format": "Paperback",
+      "language": "English"
+    }
+  },
+  {
+    "id": "BOOK-4003",
+    "sku": "BOOK-4003",
+    "name": "Cracking the Coding Interview",
+    "category": "Books",
+    "brand": "CareerCup",
+    "price": 699,
+    "currency": "INR",
+    "stock": 45,
+    "rating": 4.6,
+    "tags": [
+      "programming",
+      "student"
+    ],
+    "seller": {
+      "name": "CareerCup Authorised Seller",
+      "city": "Bengaluru"
+    },
+    "specs": {
+      "format": "Paperback",
+      "language": "English"
+    }
+  },
+  {
+    "id": "GROC-5001",
+    "sku": "GROC-5001",
+    "name": "Tata Tea Gold 1kg",
+    "category": "Grocery",
+    "brand": "Tata",
+    "price": 560,
+    "currency": "INR",
+    "stock": 500,
+    "rating": 4.4,
+    "tags": [
+      "daily-needs",
+      "bestseller"
+    ],
+    "seller": {
+      "name": "Tata Authorised Seller",
+      "city": "Kolkata"
+    }
+  },
+  {
+    "id": "GROC-5002",
+    "sku": "GROC-5002",
+    "name": "Aashirvaad Atta 10kg",
+    "category": "Grocery",
+    "brand": "ITC",
+    "price": 465,
+    "currency": "INR",
+    "stock": 350,
+    "rating": 4.5,
+    "tags": [
+      "daily-needs"
+    ],
+    "seller": {
+      "name": "ITC Authorised Seller",
+      "city": "Hyderabad"
+    }
+  },
+  {
+    "id": "GROC-5003",
+    "sku": "GROC-5003",
+    "name": "Organic Cold-Pressed Groundnut Oil 1L",
+    "category": "Grocery",
+    "brand": "Two Brothers",
+    "price": 399,
+    "currency": "INR",
+    "stock": 0,
+    "rating": 4.2,
+    "tags": [
+      "organic",
+      "eco"
+    ],
+    "seller": {
+      "name": "Two Brothers Authorised Seller",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": "GROC-5004",
+    "sku": "GROC-5004",
+    "name": "Haldiram's Bhujia 1kg",
+    "category": "Grocery",
+    "brand": "Haldiram's",
+    "price": 240,
+    "currency": "INR",
+    "stock": 90,
+    "rating": 4.3,
+    "tags": [
+      "snacks"
+    ],
+    "seller": {
+      "name": "Haldiram's Authorised Seller",
+      "city": "Nagpur"
+    }
+  }
+]

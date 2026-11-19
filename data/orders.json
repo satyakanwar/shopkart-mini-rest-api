@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ORD-2026-0001",
+    "customerId": "CUST-001",
+    "customerName": "Ananya Rao",
+    "city": "Hyderabad",
+    "orderDate": "2026-11-15T22:38:00Z",
+    "status": "Packed",
+    "paymentMode": "Card",
+    "items": [
+      {
+        "sku": "HOME-3003",
+        "name": "Wakefit Orthopaedic Mattress (Queen)",
+        "qty": 1,
+        "price": 12499
+      },
+      {
+        "sku": "FASH-2004",
+        "name": "Kids Denim Jacket",
+        "qty": 1,
+        "price": 999
+      },
+      {
+        "sku": "ELEC-1005",
+        "name": "Mi 43-inch 4K Smart TV",
+        "qty": 2,
+        "price": 26999
+      }
+    ],
+    "total": 67496
+  },
+  {
+    "id": "ORD-2026-0002",
+    "customerId": "CUST-001",
+    "customerName": "Ananya Rao",
+    "city": "Hyderabad",
+    "orderDate": "2026-11-06T10:15:00Z",
+    "status": "Placed",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "GROC-5004",
+        "name": "Haldiram's Bhujia 1kg",
+        "qty": 1,
+        "price": 240
+      },
+      {
+        "sku": "ELEC-1002",
+        "name": "Apple iPhone 15 (128GB)",
+        "qty": 2,
+        "price": 69900
+      },
+      {
+        "sku": "HOME-3004",
+        "name": "Philips Air Fryer HD9252",
+        "qty": 2,
+        "price": 7499
+      }
+    ],
+    "total": 155038
+  },
+  {
+    "id": "ORD-2026-0003",
+    "customerId": "CUST-001",
+    "customerName": "Ananya Rao",
+    "city": "Hyderabad",
+    "orderDate": "2026-11-13T20:47:00Z",
+    "status": "Packed",
+    "paymentMode": "Card",
+    "items": [
+      {
+        "sku": "GROC-5001",
+        "name": "Tata Tea Gold 1kg",
+        "qty": 1,
+        "price": 560
+      }
+    ],
+    "total": 560
+  },
+  {
+    "id": "ORD-2026-0004",
+    "customerId": "CUST-002",
+    "customerName": "Rahul Verma",
+    "city": "Delhi",
+    "orderDate": "2026-11-09T13:51:00Z",
+    "status": "Placed",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "FASH-2003",
+        "name": "Running Shoes Ultraboost",
+        "qty": 2,
+        "price": 7999
+      },
+      {
+        "sku": "BOOK-4001",
+        "name": "Atomic Habits",
+        "qty": 1,
+        "price": 499
+      },
+      {
+        "sku": "ELEC-1003",
+        "name": "boAt Rockerz 450 Bluetooth Headphones",
+        "qty": 2,
+        "price": 1499
+      }
+    ],
+    "total": 19495
+  },
+  {
+    "id": "ORD-2026-0005",
+    "customerId": "CUST-002",
+    "customerName": "Rahul Verma",
+    "city": "Delhi",
+    "orderDate": "2026-11-01T11:27:00Z",
+    "status": "Packed",
+    "paymentMode": "NetBanking",
+    "items": [
+      {
+        "sku": "ELEC-1001",
+        "name": "Samsung Galaxy M35 5G (8GB/128GB)",
+        "qty": 2,
+        "price": 16999
+      },
+      {
+        "sku": "BOOK-4001",
+        "name": "Atomic Habits",
+        "qty": 2,
+        "price": 499
+      },
+      {
+        "sku": "ELEC-1002",
+        "name": "Apple iPhone 15 (128GB)",
+        "qty": 1,
+        "price": 69900
+      }
+    ],
+    "total": 104896
+  },
+  {
+    "id": "ORD-2026-0006",
+    "customerId": "CUST-003",
+    "customerName": "Priya Nair",
+    "city": "Kochi",
+    "orderDate": "2026-11-07T13:00:00Z",
+    "status": "Packed",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "GROC-5003",
+        "name": "Organic Cold-Pressed Groundnut Oil 1L",
+        "qty": 1,
+        "price": 399
+      }
+    ],
+    "total": 399
+  },
+  {
+    "id": "ORD-2026-0007",
+    "customerId": "CUST-003",
+    "customerName": "Priya Nair",
+    "city": "Kochi",
+    "orderDate": "2026-11-03T14:12:00Z",
+    "status": "Packed",
+    "paymentMode": "NetBanking",
+    "items": [
+      {
+        "sku": "ELEC-1001",
+        "name": "Samsung Galaxy M35 5G (8GB/128GB)",
+        "qty": 2,
+        "price": 16999
+      },
+      {
+        "sku": "GROC-5001",
+        "name": "Tata Tea Gold 1kg",
+        "qty": 1,
+        "price": 560
+      },
+      {
+        "sku": "ELEC-1003",
+        "name": "boAt Rockerz 450 Bluetooth Headphones",
+        "qty": 2,
+        "price": 1499
+      }
+    ],
+    "total": 37556
+  },
+  {
+    "id": "ORD-2026-0008",
+    "customerId": "CUST-004",
+    "customerName": "Arjun Reddy",
+    "city": "Hyderabad",
+    "orderDate": "2026-11-02T12:35:00Z",
+    "status": "Shipped",
+    "paymentMode": "Card",
+    "items": [
+      {
+        "sku": "GROC-5004",
+        "name": "Haldiram's Bhujia 1kg",
+        "qty": 1,
+        "price": 240
+      }
+    ],
+    "total": 240
+  },
+  {
+    "id": "ORD-2026-0009",
+    "customerId": "CUST-004",
+    "customerName": "Arjun Reddy",
+    "city": "Hyderabad",
+    "orderDate": "2026-11-02T19:23:00Z",
+    "status": "Packed",
+    "paymentMode": "Card",
+    "items": [
+      {
+        "sku": "GROC-5003",
+        "name": "Organic Cold-Pressed Groundnut Oil 1L",
+        "qty": 2,
+        "price": 399
+      },
+      {
+        "sku": "ELEC-1002",
+        "name": "Apple iPhone 15 (128GB)",
+        "qty": 1,
+        "price": 69900
+      },
+      {
+        "sku": "ELEC-1004",
+        "name": "Lenovo IdeaPad Slim 5 Laptop",
+        "qty": 1,
+        "price": 58990
+      }
+    ],
+    "total": 129688
+  },
+  {
+    "id": "ORD-2026-0010",
+    "customerId": "CUST-005",
+    "customerName": "Sneha Patil",
+    "city": "Pune",
+    "orderDate": "2026-11-13T20:38:00Z",
+    "status": "Delivered",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "HOME-3003",
+        "name": "Wakefit Orthopaedic Mattress (Queen)",
+        "qty": 2,
+        "price": 12499
+      },
+      {
+        "sku": "BOOK-4002",
+        "name": "Wings of Fire - A. P. J. Abdul Kalam",
+        "qty": 1,
+        "price": 299
+      },
+      {
+        "sku": "FASH-2002",
+        "name": "Women's Banarasi Silk Saree",
+        "qty": 1,
+        "price": 4599
+      }
+    ],
+    "total": 29896
+  },
+  {
+    "id": "ORD-2026-0011",
+    "customerId": "CUST-005",
+    "customerName": "Sneha Patil",
+    "city": "Pune",
+    "orderDate": "2026-11-09T13:52:00Z",
+    "status": "Packed",
+    "paymentMode": "Card",
+    "items": [
+      {
+        "sku": "ELEC-1004",
+        "name": "Lenovo IdeaPad Slim 5 Laptop",
+        "qty": 1,
+        "price": 58990
+      },
+      {
+        "sku": "FASH-2002",
+        "name": "Women's Banarasi Silk Saree",
+        "qty": 2,
+        "price": 4599
+      }
+    ],
+    "total": 68188
+  },
+  {
+    "id": "ORD-2026-0012",
+    "customerId": "CUST-006",
+    "customerName": "Mohammed Irfan",
+    "city": "Bengaluru",
+    "orderDate": "2026-11-13T20:35:00Z",
+    "status": "Cancelled",
+    "paymentMode": "COD",
+    "items": [
+      {
+        "sku": "ELEC-1004",
+        "name": "Lenovo IdeaPad Slim 5 Laptop",
+        "qty": 1,
+        "price": 58990
+      },
+      {
+        "sku": "GROC-5001",
+        "name": "Tata Tea Gold 1kg",
+        "qty": 1,
+        "price": 560
+      }
+    ],
+    "total": 59550
+  },
+  {
+    "id": "ORD-2026-0013",
+    "customerId": "CUST-006",
+    "customerName": "Mohammed Irfan",
+    "city": "Bengaluru",
+    "orderDate": "2026-11-08T09:48:00Z",
+    "status": "Cancelled",
+    "paymentMode": "NetBanking",
+    "items": [
+      {
+        "sku": "FASH-2003",
+        "name": "Running Shoes Ultraboost",
+        "qty": 1,
+        "price": 7999
+      },
+      {
+        "sku": "GROC-5003",
+        "name": "Organic Cold-Pressed Groundnut Oil 1L",
+        "qty": 2,
+        "price": 399
+      }
+    ],
+    "total": 8797
+  },
+  {
+    "id": "ORD-2026-0014",
+    "customerId": "CUST-006",
+    "customerName": "Mohammed Irfan",
+    "city": "Bengaluru",
+    "orderDate": "2026-11-06T19:53:00Z",
+    "status": "Delivered",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "GROC-5002",
+        "name": "Aashirvaad Atta 10kg",
+        "qty": 1,
+        "price": 465
+      },
+      {
+        "sku": "HOME-3003",
+        "name": "Wakefit Orthopaedic Mattress (Queen)",
+        "qty": 2,
+        "price": 12499
+      }
+    ],
+    "total": 25463
+  },
+  {
+    "id": "ORD-2026-0015",
+    "customerId": "CUST-006",
+    "customerName": "Mohammed Irfan",
+    "city": "Bengaluru",
+    "orderDate": "2026-11-06T09:38:00Z",
+    "status": "Shipped",
+    "paymentMode": "UPI",
+    "items": [
+      {
+        "sku": "FASH-2001",
+        "name": "Men's Cotton Slim Fit Shirt",
+        "qty": 2,
+        "price": 1299
+      }
+    ],
+    "total": 2598
+  }
+]
